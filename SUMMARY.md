@@ -69,3 +69,11 @@
 
 * [273. Integer to English Words](divide-and-conquer/273.-integer-to-english-words.md)
 
+## Math
+
+* [7. Reverse Integer](math/7.-reverse-integer.md)
+
+## SQL
+
+* [175. Combine Two Tables](sql/175.-combine-two-tables.md)
+

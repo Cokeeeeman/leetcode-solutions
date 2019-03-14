@@ -1,6 +1,6 @@
-# Table of contents
+# Welcome
 
-* [Welcome](README.md)
+* [Welcome](./)
 * [Page Template](page-template.md)
 
 ## Array
