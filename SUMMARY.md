@@ -77,3 +77,7 @@
 
 * [175. Combine Two Tables](sql/175.-combine-two-tables.md)
 
+## Heap
+
+* [23. Merge k Sorted Lists](heap/23.-merge-k-sorted-lists.md)
+
