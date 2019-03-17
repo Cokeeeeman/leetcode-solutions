@@ -27,6 +27,7 @@
 * [56. Merge Intervals](sorting/56.-merge-intervals.md)
 * [147. Insertion Sort List](sorting/147.-insertion-sort-list.md)
 * [Untitled](sorting/untitled-1.md)
+* [Untitled](sorting/untitled-2.md)
 
 ## Greedy
 
@@ -80,4 +81,8 @@
 ## Heap
 
 * [23. Merge k Sorted Lists](heap/23.-merge-k-sorted-lists.md)
+
+## Graph
+
+* [269. Alien Dictionary](graph/269.-alien-dictionary.md)
 
