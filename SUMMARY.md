@@ -82,6 +82,7 @@
 ## Heap
 
 * [23. Merge k Sorted Lists](heap/23.-merge-k-sorted-lists.md)
+* [973. K Closest Points to Origin](heap/973.-k-closest-points-to-origin.md)
 
 ## Graph
 
