@@ -50,6 +50,7 @@
 ## Design
 
 * [146. LRU Cache](design/146.-lru-cache.md)
+* [297. Serialize and Deserialize Binary Tree](design/297.-serialize-and-deserialize-binary-tree.md)
 
 ## DFS & BFS
 
