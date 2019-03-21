@@ -96,3 +96,7 @@
 
 * [33. Search in Rotated Sorted Array](binary-search/33.-search-in-rotated-sorted-array.md)
 
+## Hash
+
+* [811. Subdomain Visit Count](hash/811.-subdomain-visit-count.md)
+
