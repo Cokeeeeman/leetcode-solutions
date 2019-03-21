@@ -11,6 +11,7 @@
 * [15. 3Sum](array/untitled.md)
 * [16. 3Sum Closest](array/16.-3sum-closest.md)
 * [18. 4Sum](array/18.-4sum.md)
+* [31. Next Permutation](array/untitled-1.md)
 * [42. Trapping Rain Water](array/42.-trapping-rain-water.md)
 * [54. Spiral Matrix](array/54.-spiral-matrix.md)
 * [66. Plus One](array/66.-plus-one.md)
@@ -22,7 +23,6 @@
 * [560. Subarray Sum Equals K](array/560.-subarray-sum-equals-k.md)
 * [904. Fruit Into Baskets](array/904.-fruit-into-baskets.md)
 * [923. 3Sum With Multiplicity](array/923.-3sum-with-multiplicity.md)
-* [Untitled](array/untitled-1.md)
 
 ## Sorting
 
