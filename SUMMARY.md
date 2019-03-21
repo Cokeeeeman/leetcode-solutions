@@ -23,6 +23,7 @@
 * [560. Subarray Sum Equals K](array/560.-subarray-sum-equals-k.md)
 * [904. Fruit Into Baskets](array/904.-fruit-into-baskets.md)
 * [923. 3Sum With Multiplicity](array/923.-3sum-with-multiplicity.md)
+* [76. Minimum Window Substring](array/76.-minimum-window-substring.md)
 
 ## Sorting
 
