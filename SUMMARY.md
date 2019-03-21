@@ -89,3 +89,7 @@
 
 * [269. Alien Dictionary](graph/269.-alien-dictionary.md)
 
+## Binary Search
+
+* [33. Search in Rotated Sorted Array](binary-search/33.-search-in-rotated-sorted-array.md)
+
