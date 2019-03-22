@@ -95,6 +95,7 @@
 ## Graph
 
 * [269. Alien Dictionary](graph/269.-alien-dictionary.md)
+* [924. Minimize Malware Spread](graph/924.-minimize-malware-spread.md)
 
 ## Binary Search
 
