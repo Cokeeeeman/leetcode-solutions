@@ -39,6 +39,7 @@
 
 ## Dynamic Programming
 
+* [10. Regular Expression Matching](dynamic-programming/10.-regular-expression-matching.md)
 * [53. Maximum Subarray](dynamic-programming/53.-maximum-subarray.md)
 * [121. Best Time to Buy and Sell Stock](dynamic-programming/untitled.md)
 * [198. House Robber](dynamic-programming/198.-house-robber.md)
