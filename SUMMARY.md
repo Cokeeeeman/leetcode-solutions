@@ -41,11 +41,12 @@
 
 * [10. Regular Expression Matching](dynamic-programming/10.-regular-expression-matching.md)
 * [53. Maximum Subarray](dynamic-programming/53.-maximum-subarray.md)
+* [72. Edit Distance](dynamic-programming/72.-edit-distance.md)
 * [121. Best Time to Buy and Sell Stock](dynamic-programming/untitled.md)
+* [139. Word Break](dynamic-programming/139.-word-break.md)
 * [198. House Robber](dynamic-programming/198.-house-robber.md)
 * [213. House Robber II](dynamic-programming/213.-house-robber-ii.md)
 * [322. Coin Change](dynamic-programming/322.-coin-change.md)
-* [139. Word Break](dynamic-programming/139.-word-break.md)
 
 ## Linked List
 
