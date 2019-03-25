@@ -73,6 +73,7 @@
 ## Stack
 
 * [20. Valid Parentheses](stack/20.-valid-parentheses.md)
+* [85. Maximal Rectangle](stack/85.-maximal-rectangle.md)
 
 ## Divide And Conquer
 
