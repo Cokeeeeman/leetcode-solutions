@@ -47,6 +47,7 @@
 * [198. House Robber](dynamic-programming/198.-house-robber.md)
 * [213. House Robber II](dynamic-programming/213.-house-robber-ii.md)
 * [322. Coin Change](dynamic-programming/322.-coin-change.md)
+* [91. Decode Ways](dynamic-programming/91.-decode-ways.md)
 
 ## Linked List
 
