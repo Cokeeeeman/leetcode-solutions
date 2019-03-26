@@ -49,6 +49,7 @@
 * [322. Coin Change](dynamic-programming/322.-coin-change.md)
 * [91. Decode Ways](dynamic-programming/91.-decode-ways.md)
 * [300. Longest Increasing Subsequence](dynamic-programming/300.-longest-increasing-subsequence.md)
+* [32. Longest Valid Parentheses](dynamic-programming/32.-longest-valid-parentheses.md)
 
 ## Linked List
 
