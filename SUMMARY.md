@@ -50,6 +50,8 @@
 * [91. Decode Ways](dynamic-programming/91.-decode-ways.md)
 * [300. Longest Increasing Subsequence](dynamic-programming/300.-longest-increasing-subsequence.md)
 * [32. Longest Valid Parentheses](dynamic-programming/32.-longest-valid-parentheses.md)
+* [140. Word Break II](dynamic-programming/140.-word-break-ii.md)
+* [22. Generate Parentheses](dynamic-programming/22.-generate-parentheses.md)
 
 ## Linked List
 
@@ -73,6 +75,7 @@
 
 * [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
 * [5. Longest Palindromic Substring](string/5.-longest-palindromic-substring.md)
+* [647. Palindromic Substrings](string/647.-palindromic-substrings.md)
 * [929. Unique Email Addresses](string/929.-unique-email-addresses.md)
 
 ## Stack
