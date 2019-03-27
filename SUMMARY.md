@@ -39,7 +39,7 @@
 * [Background Knowledge](sorting/untitled.md)
 * [56. Merge Intervals](sorting/56.-merge-intervals.md)
 * [147. Insertion Sort List](sorting/147.-insertion-sort-list.md)
-* [Untitled](sorting/untitled-1.md)
+* [280. Wiggle Sort](sorting/untitled-1.md)
 * [Untitled](sorting/untitled-2.md)
 
 ## Greedy
@@ -112,6 +112,7 @@
 ## Binary Search
 
 * [33. Search in Rotated Sorted Array](binary-search/33.-search-in-rotated-sorted-array.md)
+* [162. Find Peak Element](binary-search/162.-find-peak-element.md)
 
 ## Hash
 
