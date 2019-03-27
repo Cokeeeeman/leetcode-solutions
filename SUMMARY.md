@@ -3,6 +3,15 @@
 * [Welcome](README.md)
 * [Page Template](page-template.md)
 
+## String
+
+* [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
+* [5. Longest Palindromic Substring](string/5.-longest-palindromic-substring.md)
+* [647. Palindromic Substrings](string/647.-palindromic-substrings.md)
+* [929. Unique Email Addresses](string/929.-unique-email-addresses.md)
+* [49. Group Anagrams](string/49.-group-anagrams.md)
+* [482. License Key Formatting](string/482.-license-key-formatting.md)
+
 ## Array
 
 * [1. Two Sum](array/1.-two-sum.md)
@@ -71,14 +80,6 @@
 * [200. Number of Islands](dfs-and-bfs/200.-number-of-islands.md)
 * [301. Remove Invalid Parentheses](dfs-and-bfs/301.-remove-invalid-parentheses.md)
 
-## String
-
-* [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
-* [5. Longest Palindromic Substring](string/5.-longest-palindromic-substring.md)
-* [647. Palindromic Substrings](string/647.-palindromic-substrings.md)
-* [929. Unique Email Addresses](string/929.-unique-email-addresses.md)
-* [49. Group Anagrams](string/49.-group-anagrams.md)
-
 ## Stack
 
 * [20. Valid Parentheses](stack/20.-valid-parentheses.md)
@@ -115,4 +116,8 @@
 ## Hash
 
 * [811. Subdomain Visit Count](hash/811.-subdomain-visit-count.md)
+
+## Backtrack
+
+* [46. Permutations](backtrack/46.-permutations.md)
 
