@@ -10,6 +10,7 @@
 * [34. Find First and Last Position of Element in Sorted Array](binary-search/34.-find-first-and-last-position-of-element-in-sorted-array.md)
 * [35. Search Insert Position](binary-search/35.-search-insert-position.md)
 * [50. Pow\(x, n\)](binary-search/50.-pow-x-n.md)
+* [69. Sqrt\(x\)](binary-search/69.-sqrt-x.md)
 * [162. Find Peak Element](binary-search/162.-find-peak-element.md)
 
 ## String
