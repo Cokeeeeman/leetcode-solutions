@@ -5,6 +5,7 @@
 
 ## Binary Search
 
+* [29. Divide Two Integers](binary-search/29.-divide-two-integers.md)
 * [33. Search in Rotated Sorted Array](binary-search/33.-search-in-rotated-sorted-array.md)
 * [34. Find First and Last Position of Element in Sorted Array](binary-search/34.-find-first-and-last-position-of-element-in-sorted-array.md)
 * [35. Search Insert Position](binary-search/35.-search-insert-position.md)
