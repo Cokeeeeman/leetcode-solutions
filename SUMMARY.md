@@ -12,6 +12,7 @@
 * [50. Pow\(x, n\)](binary-search/50.-pow-x-n.md)
 * [69. Sqrt\(x\)](binary-search/69.-sqrt-x.md)
 * [162. Find Peak Element](binary-search/162.-find-peak-element.md)
+* [475. Heaters](binary-search/475.-heaters.md)
 
 ## String
 
