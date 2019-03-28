@@ -3,6 +3,13 @@
 * [Welcome](README.md)
 * [Page Template](page-template.md)
 
+## Binary Search
+
+* [33. Search in Rotated Sorted Array](binary-search/33.-search-in-rotated-sorted-array.md)
+* [34. Find First and Last Position of Element in Sorted Array](binary-search/34.-find-first-and-last-position-of-element-in-sorted-array.md)
+* [35. Search Insert Position](binary-search/35.-search-insert-position.md)
+* [162. Find Peak Element](binary-search/162.-find-peak-element.md)
+
 ## String
 
 * [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
@@ -109,11 +116,6 @@
 
 * [269. Alien Dictionary](graph/269.-alien-dictionary.md)
 * [924. Minimize Malware Spread](graph/924.-minimize-malware-spread.md)
-
-## Binary Search
-
-* [33. Search in Rotated Sorted Array](binary-search/33.-search-in-rotated-sorted-array.md)
-* [162. Find Peak Element](binary-search/162.-find-peak-element.md)
 
 ## Hash
 
