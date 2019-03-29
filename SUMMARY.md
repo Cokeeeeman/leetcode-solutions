@@ -28,6 +28,7 @@
 * [929. Unique Email Addresses](string/929.-unique-email-addresses.md)
 * [49. Group Anagrams](string/49.-group-anagrams.md)
 * [482. License Key Formatting](string/482.-license-key-formatting.md)
+* [681. Next Closest Time](string/681.-next-closest-time.md)
 
 ## Array
 
