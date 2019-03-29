@@ -13,6 +13,7 @@
 * [69. Sqrt\(x\)](binary-search/69.-sqrt-x.md)
 * [162. Find Peak Element](binary-search/162.-find-peak-element.md)
 * [475. Heaters](binary-search/475.-heaters.md)
+* [658. Find K Closest Elements](binary-search/658.-find-k-closest-elements.md)
 
 ## String
 
