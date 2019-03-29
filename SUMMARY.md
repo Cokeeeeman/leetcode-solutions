@@ -7,6 +7,7 @@
 
 * [200. Number of Islands](dfs/200.-number-of-islands.md)
 * [695. Max Area of Island](dfs/695.-max-area-of-island.md)
+* [417. Pacific Atlantic Water Flow](dfs/417.-pacific-atlantic-water-flow.md)
 
 ## Binary Search
 
@@ -98,6 +99,7 @@
 
 * [20. Valid Parentheses](stack/20.-valid-parentheses.md)
 * [85. Maximal Rectangle](stack/85.-maximal-rectangle.md)
+* [394. Decode String](stack/394.-decode-string.md)
 
 ## Divide And Conquer
 
