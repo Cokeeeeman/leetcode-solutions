@@ -52,8 +52,8 @@
 
 ## DFS & BFS
 
-* [200. Number of Islands](dfs-and-bfs/200.-number-of-islands.md)
-* [301. Remove Invalid Parentheses](dfs-and-bfs/301.-remove-invalid-parentheses.md)
+* [200. Number of Islands](dfs/200.-number-of-islands.md)
+* [301. Remove Invalid Parentheses](bfs/301.-remove-invalid-parentheses.md)
 
 ## String
 

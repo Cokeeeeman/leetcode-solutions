@@ -3,6 +3,11 @@
 * [Welcome](README.md)
 * [Page Template](page-template.md)
 
+## DFS
+
+* [200. Number of Islands](dfs/200.-number-of-islands.md)
+* [695. Max Area of Island](dfs/695.-max-area-of-island.md)
+
 ## Binary Search
 
 * [29. Divide Two Integers](binary-search/29.-divide-two-integers.md)
@@ -88,11 +93,6 @@
 * [146. LRU Cache](design/146.-lru-cache.md)
 * [297. Serialize and Deserialize Binary Tree](design/297.-serialize-and-deserialize-binary-tree.md)
 
-## DFS & BFS
-
-* [200. Number of Islands](dfs-and-bfs/200.-number-of-islands.md)
-* [301. Remove Invalid Parentheses](dfs-and-bfs/301.-remove-invalid-parentheses.md)
-
 ## Stack
 
 * [20. Valid Parentheses](stack/20.-valid-parentheses.md)
@@ -129,4 +129,9 @@
 ## Backtrack
 
 * [46. Permutations](backtrack/46.-permutations.md)
+
+## BFS
+
+* [301. Remove Invalid Parentheses](bfs/301.-remove-invalid-parentheses.md)
+* [Untitled](bfs/untitled.md)
 
