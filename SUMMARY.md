@@ -6,8 +6,9 @@
 ## DFS
 
 * [200. Number of Islands](dfs/200.-number-of-islands.md)
-* [695. Max Area of Island](dfs/695.-max-area-of-island.md)
 * [417. Pacific Atlantic Water Flow](dfs/417.-pacific-atlantic-water-flow.md)
+* [529. Minesweeper](dfs/529.-minesweeper.md)
+* [695. Max Area of Island](dfs/695.-max-area-of-island.md)
 
 ## Binary Search
 
