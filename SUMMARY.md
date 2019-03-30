@@ -6,10 +6,10 @@
 ## DFS
 
 * [200. Number of Islands](dfs/200.-number-of-islands.md)
+* [339. Nested List Weight Sum](dfs/339.-nested-list-weight-sum.md)
 * [417. Pacific Atlantic Water Flow](dfs/417.-pacific-atlantic-water-flow.md)
 * [529. Minesweeper](dfs/529.-minesweeper.md)
 * [695. Max Area of Island](dfs/695.-max-area-of-island.md)
-* [339. Nested List Weight Sum](dfs/339.-nested-list-weight-sum.md)
 
 ## Binary Search
 
@@ -138,5 +138,5 @@
 ## BFS
 
 * [301. Remove Invalid Parentheses](bfs/301.-remove-invalid-parentheses.md)
-* [Untitled](bfs/untitled.md)
+* [364. Nested List Weight Sum II](bfs/untitled.md)
 
