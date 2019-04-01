@@ -3,6 +3,12 @@
 * [Welcome](README.md)
 * [Page Template](page-template.md)
 
+## BFS
+
+* [127. Word Ladder](bfs/127.-word-ladder.md)
+* [301. Remove Invalid Parentheses](bfs/301.-remove-invalid-parentheses.md)
+* [364. Nested List Weight Sum II](bfs/untitled.md)
+
 ## DFS
 
 * [200. Number of Islands](dfs/200.-number-of-islands.md)
@@ -134,9 +140,4 @@
 ## Backtrack
 
 * [46. Permutations](backtrack/46.-permutations.md)
-
-## BFS
-
-* [301. Remove Invalid Parentheses](bfs/301.-remove-invalid-parentheses.md)
-* [364. Nested List Weight Sum II](bfs/untitled.md)
 
