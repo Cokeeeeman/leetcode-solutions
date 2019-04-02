@@ -5,6 +5,7 @@
 
 ## Backtrack
 
+* [39. Combination Sum](backtrack/39.-combination-sum.md)
 * [46. Permutations](backtrack/46.-permutations.md)
 * [77. Combinations](backtrack/77.-combinations.md)
 * [78. Subsets](backtrack/78.-subsets.md)
