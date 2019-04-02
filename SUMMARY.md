@@ -9,6 +9,7 @@
 * [127. Word Ladder](bfs/127.-word-ladder.md)
 * [301. Remove Invalid Parentheses](bfs/301.-remove-invalid-parentheses.md)
 * [364. Nested List Weight Sum II](bfs/untitled.md)
+* [490. The Maze](bfs/490.-the-maze.md)
 
 ## DFS
 
