@@ -9,6 +9,7 @@
 * [40. Combination Sum II](backtrack/40.-combination-sum-ii.md)
 * [46. Permutations](backtrack/46.-permutations.md)
 * [47. Permutations II](backtrack/47.-permutations-ii.md)
+* [51. N-Queens](backtrack/51.-n-queens.md)
 * [77. Combinations](backtrack/77.-combinations.md)
 * [78. Subsets](backtrack/78.-subsets.md)
 * [90. Subsets II](backtrack/90.-subsets-ii.md)
