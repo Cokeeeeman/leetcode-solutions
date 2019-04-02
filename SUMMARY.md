@@ -3,6 +3,11 @@
 * [Welcome](README.md)
 * [Page Template](page-template.md)
 
+## Backtrack
+
+* [46. Permutations](backtrack/46.-permutations.md)
+* [78. Subsets](backtrack/78.-subsets.md)
+
 ## BFS
 
 * [126. Word Ladder II](bfs/126.-word-ladder-ii.md)
@@ -139,8 +144,4 @@
 ## Hash
 
 * [811. Subdomain Visit Count](hash/811.-subdomain-visit-count.md)
-
-## Backtrack
-
-* [46. Permutations](backtrack/46.-permutations.md)
 
