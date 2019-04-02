@@ -12,6 +12,7 @@
 * [51. N-Queens](backtrack/51.-n-queens.md)
 * [77. Combinations](backtrack/77.-combinations.md)
 * [78. Subsets](backtrack/78.-subsets.md)
+* [79. Word Search](backtrack/79.-word-search.md)
 * [90. Subsets II](backtrack/90.-subsets-ii.md)
 
 ## BFS
