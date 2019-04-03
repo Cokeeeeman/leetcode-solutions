@@ -5,6 +5,7 @@
 
 ## Backtrack
 
+* [37. Sudoku Solver](backtrack/37.-sudoku-solver.md)
 * [39. Combination Sum](backtrack/39.-combination-sum.md)
 * [40. Combination Sum II](backtrack/40.-combination-sum-ii.md)
 * [46. Permutations](backtrack/46.-permutations.md)
