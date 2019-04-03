@@ -3,6 +3,23 @@
 * [Welcome](README.md)
 * [Page Template](page-template.md)
 
+## Dynamic Programming
+
+* [10. Regular Expression Matching](dynamic-programming/10.-regular-expression-matching.md)
+* [53. Maximum Subarray](dynamic-programming/53.-maximum-subarray.md)
+* [72. Edit Distance](dynamic-programming/72.-edit-distance.md)
+* [121. Best Time to Buy and Sell Stock](dynamic-programming/untitled.md)
+* [139. Word Break](dynamic-programming/139.-word-break.md)
+* [198. House Robber](dynamic-programming/198.-house-robber.md)
+* [213. House Robber II](dynamic-programming/213.-house-robber-ii.md)
+* [322. Coin Change](dynamic-programming/322.-coin-change.md)
+* [91. Decode Ways](dynamic-programming/91.-decode-ways.md)
+* [300. Longest Increasing Subsequence](dynamic-programming/300.-longest-increasing-subsequence.md)
+* [32. Longest Valid Parentheses](dynamic-programming/32.-longest-valid-parentheses.md)
+* [140. Word Break II](dynamic-programming/140.-word-break-ii.md)
+* [22. Generate Parentheses](dynamic-programming/22.-generate-parentheses.md)
+* [44. Wildcard Matching](dynamic-programming/44.-wildcard-matching.md)
+
 ## Backtrack
 
 * [37. Sudoku Solver](backtrack/37.-sudoku-solver.md)
@@ -89,22 +106,6 @@
 ## Greedy
 
 * [253. Meeting Rooms II](greedy/253.-meeting-rooms-ii.md)
-
-## Dynamic Programming
-
-* [10. Regular Expression Matching](dynamic-programming/10.-regular-expression-matching.md)
-* [53. Maximum Subarray](dynamic-programming/53.-maximum-subarray.md)
-* [72. Edit Distance](dynamic-programming/72.-edit-distance.md)
-* [121. Best Time to Buy and Sell Stock](dynamic-programming/untitled.md)
-* [139. Word Break](dynamic-programming/139.-word-break.md)
-* [198. House Robber](dynamic-programming/198.-house-robber.md)
-* [213. House Robber II](dynamic-programming/213.-house-robber-ii.md)
-* [322. Coin Change](dynamic-programming/322.-coin-change.md)
-* [91. Decode Ways](dynamic-programming/91.-decode-ways.md)
-* [300. Longest Increasing Subsequence](dynamic-programming/300.-longest-increasing-subsequence.md)
-* [32. Longest Valid Parentheses](dynamic-programming/32.-longest-valid-parentheses.md)
-* [140. Word Break II](dynamic-programming/140.-word-break-ii.md)
-* [22. Generate Parentheses](dynamic-programming/22.-generate-parentheses.md)
 
 ## Linked List
 
