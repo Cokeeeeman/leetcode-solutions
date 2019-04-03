@@ -3,6 +3,12 @@
 * [Welcome](README.md)
 * [Page Template](page-template.md)
 
+## Graph
+
+* [133. Clone Graph](graph/133.-clone-graph.md)
+* [269. Alien Dictionary](graph/269.-alien-dictionary.md)
+* [924. Minimize Malware Spread](graph/924.-minimize-malware-spread.md)
+
 ## Dynamic Programming
 
 * [10. Regular Expression Matching](dynamic-programming/10.-regular-expression-matching.md)
@@ -144,11 +150,6 @@
 
 * [23. Merge k Sorted Lists](heap/23.-merge-k-sorted-lists.md)
 * [973. K Closest Points to Origin](heap/973.-k-closest-points-to-origin.md)
-
-## Graph
-
-* [269. Alien Dictionary](graph/269.-alien-dictionary.md)
-* [924. Minimize Malware Spread](graph/924.-minimize-malware-spread.md)
 
 ## Hash
 
