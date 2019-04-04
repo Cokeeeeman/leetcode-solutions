@@ -3,6 +3,10 @@
 * [Welcome](README.md)
 * [Page Template](page-template.md)
 
+## Tree
+
+* [94. Binary Tree Inorder Traversal](tree/94.-binary-tree-inorder-traversal.md)
+
 ## Graph
 
 * [133. Clone Graph](graph/133.-clone-graph.md)
