@@ -8,10 +8,11 @@
 * [133. Clone Graph](graph/133.-clone-graph.md)
 * [207. Course Schedule](graph/207.-course-schedule.md)
 * [210. Course Schedule II](graph/210.-course-schedule-ii.md)
+* [261. Graph Valid Tree](graph/261.-graph-valid-tree.md)
 * [269. Alien Dictionary](graph/269.-alien-dictionary.md)
+* [323. Number of Connected Components in an Undirected Graph](graph/323.-number-of-connected-components-in-an-undirected-graph.md)
 * [785. Is Graph Bipartite?](graph/785.-is-graph-bipartite.md)
 * [924. Minimize Malware Spread](graph/924.-minimize-malware-spread.md)
-* [261. Graph Valid Tree](graph/261.-graph-valid-tree.md)
 
 ## Dynamic Programming
 
