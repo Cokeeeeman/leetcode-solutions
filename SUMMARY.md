@@ -12,6 +12,7 @@
 * [269. Alien Dictionary](graph/269.-alien-dictionary.md)
 * [323. Number of Connected Components in an Undirected Graph](graph/323.-number-of-connected-components-in-an-undirected-graph.md)
 * [332. Reconstruct Itinerary](graph/332.-reconstruct-itinerary.md)
+* [399. Evaluate Division](graph/399.-evaluate-division.md)
 * [785. Is Graph Bipartite?](graph/785.-is-graph-bipartite.md)
 * [924. Minimize Malware Spread](graph/924.-minimize-malware-spread.md)
 
