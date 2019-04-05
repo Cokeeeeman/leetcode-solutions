@@ -9,6 +9,7 @@
 * [95. Unique Binary Search Trees II](tree/95.-unique-binary-search-trees-ii.md)
 * [96. Unique Binary Search Trees](tree/96.-unique-binary-search-trees.md)
 * [98. Validate Binary Search Tree](tree/98.-validate-binary-search-tree.md)
+* [100. Same Tree](tree/100.-same-tree.md)
 * [101. Symmetric Tree](tree/101.-symmetric-tree.md)
 * [102. Binary Tree Level Order Traversal](tree/102.-binary-tree-level-order-traversal.md)
 * [124. Binary Tree Maximum Path Sum](tree/124.-binary-tree-maximum-path-sum.md)
