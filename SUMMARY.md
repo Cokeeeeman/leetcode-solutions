@@ -12,6 +12,7 @@
 * [100. Same Tree](tree/100.-same-tree.md)
 * [101. Symmetric Tree](tree/101.-symmetric-tree.md)
 * [102. Binary Tree Level Order Traversal](tree/102.-binary-tree-level-order-traversal.md)
+* [104. Maximum Depth of Binary Tree](tree/104.-maximum-depth-of-binary-tree.md)
 * [124. Binary Tree Maximum Path Sum](tree/124.-binary-tree-maximum-path-sum.md)
 * [144. Binary Tree Preorder Traversal](tree/144.-binary-tree-preorder-traversal.md)
 * [145. Binary Tree Postorder Traversal](tree/145.-binary-tree-postorder-traversal.md)
