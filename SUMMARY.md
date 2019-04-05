@@ -6,6 +6,8 @@
 ## Tree
 
 * [94. Binary Tree Inorder Traversal](tree/94.-binary-tree-inorder-traversal.md)
+* [96. Unique Binary Search Trees](tree/96.-unique-binary-search-trees.md)
+* [98. Validate Binary Search Tree](tree/98.-validate-binary-search-tree.md)
 * [144. Binary Tree Preorder Traversal](tree/144.-binary-tree-preorder-traversal.md)
 * [145. Binary Tree Postorder Traversal](tree/145.-binary-tree-postorder-traversal.md)
 
