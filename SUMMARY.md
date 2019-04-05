@@ -6,6 +6,7 @@
 ## Tree
 
 * [94. Binary Tree Inorder Traversal](tree/94.-binary-tree-inorder-traversal.md)
+* [144. Binary Tree Preorder Traversal](tree/144.-binary-tree-preorder-traversal.md)
 
 ## Graph
 
