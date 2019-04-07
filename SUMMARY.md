@@ -15,6 +15,7 @@
 * [103. Binary Tree Zigzag Level Order Traversal](tree/103.-binary-tree-zigzag-level-order-traversal.md)
 * [104. Maximum Depth of Binary Tree](tree/104.-maximum-depth-of-binary-tree.md)
 * [114. Flatten Binary Tree to Linked List](tree/114.-flatten-binary-tree-to-linked-list.md)
+* [116. Populating Next Right Pointers in Each Node](tree/116.-populating-next-right-pointers-in-each-node.md)
 * [124. Binary Tree Maximum Path Sum](tree/124.-binary-tree-maximum-path-sum.md)
 * [144. Binary Tree Preorder Traversal](tree/144.-binary-tree-preorder-traversal.md)
 * [145. Binary Tree Postorder Traversal](tree/145.-binary-tree-postorder-traversal.md)
