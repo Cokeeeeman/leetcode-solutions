@@ -17,6 +17,7 @@
 * [124. Binary Tree Maximum Path Sum](tree/124.-binary-tree-maximum-path-sum.md)
 * [144. Binary Tree Preorder Traversal](tree/144.-binary-tree-preorder-traversal.md)
 * [145. Binary Tree Postorder Traversal](tree/145.-binary-tree-postorder-traversal.md)
+* [173. Binary Search Tree Iterator](tree/173.-binary-search-tree-iterator.md)
 * [222. Count Complete Tree Nodes](tree/222.-count-complete-tree-nodes.md)
 * [236. Lowest Common Ancestor of a Binary Tree](tree/236.-lowest-common-ancestor-of-a-binary-tree.md)
 * [543. Diameter of Binary Tree](tree/543.-diameter-of-binary-tree.md)
