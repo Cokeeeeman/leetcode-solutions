@@ -23,9 +23,9 @@
 * [173. Binary Search Tree Iterator](tree/173.-binary-search-tree-iterator.md)
 * [222. Count Complete Tree Nodes](tree/222.-count-complete-tree-nodes.md)
 * [236. Lowest Common Ancestor of a Binary Tree](tree/236.-lowest-common-ancestor-of-a-binary-tree.md)
+* [250. Count Univalue Subtrees](tree/untitled.md)
 * [449. Serialize and Deserialize BST](tree/449.-serialize-and-deserialize-bst.md)
 * [543. Diameter of Binary Tree](tree/543.-diameter-of-binary-tree.md)
-* [Untitled](tree/untitled.md)
 
 ## Graph
 
