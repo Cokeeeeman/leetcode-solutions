@@ -3,6 +3,10 @@
 * [Welcome](README.md)
 * [Page Template](page-template.md)
 
+## Trie
+
+* [208. Implement Trie \(Prefix Tree\)](trie/208.-implement-trie-prefix-tree.md)
+
 ## Tree
 
 * [94. Binary Tree Inorder Traversal](tree/94.-binary-tree-inorder-traversal.md)
