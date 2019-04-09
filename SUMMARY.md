@@ -7,6 +7,7 @@
 
 * [208. Implement Trie \(Prefix Tree\)](trie/208.-implement-trie-prefix-tree.md)
 * [642. Design Search Autocomplete System](trie/642.-design-search-autocomplete-system.md)
+* [211. Add and Search Word - Data structure design](trie/211.-add-and-search-word-data-structure-design.md)
 
 ## Tree
 
