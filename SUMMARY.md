@@ -109,6 +109,7 @@
 
 * [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
 * [5. Longest Palindromic Substring](string/5.-longest-palindromic-substring.md)
+* [28. Implement strStr\(\)](string/28.-implement-strstr.md)
 * [647. Palindromic Substrings](string/647.-palindromic-substrings.md)
 * [929. Unique Email Addresses](string/929.-unique-email-addresses.md)
 * [49. Group Anagrams](string/49.-group-anagrams.md)
