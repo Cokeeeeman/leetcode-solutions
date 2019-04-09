@@ -7,6 +7,7 @@
 
 * [2. Add Two Numbers](linked-list/2.-add-two-numbers.md)
 * [21. Merge Two Sorted Lists](linked-list/21.-merge-two-sorted-lists.md)
+* [25. Reverse Nodes in k-Group](linked-list/25.-reverse-nodes-in-k-group.md)
 * [138. Copy List with Random Pointer](linked-list/138.-copy-list-with-random-pointer.md)
 * [141. Linked List Cycle](linked-list/141.-linked-list-cycle.md)
 * [143. Reorder List](linked-list/143.-reorder-list.md)
