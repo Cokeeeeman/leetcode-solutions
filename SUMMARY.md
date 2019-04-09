@@ -12,6 +12,7 @@
 * [25. Reverse Nodes in k-Group](linked-list/25.-reverse-nodes-in-k-group.md)
 * [83. Remove Duplicates from Sorted List](linked-list/83.-remove-duplicates-from-sorted-list.md)
 * [86. Partition List](linked-list/86.-partition-list.md)
+* [109. Convert Sorted List to Binary Search Tree](linked-list/109.-convert-sorted-list-to-binary-search-tree.md)
 * [138. Copy List with Random Pointer](linked-list/138.-copy-list-with-random-pointer.md)
 * [141. Linked List Cycle](linked-list/141.-linked-list-cycle.md)
 * [143. Reorder List](linked-list/143.-reorder-list.md)
