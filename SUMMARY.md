@@ -3,6 +3,15 @@
 * [Welcome](README.md)
 * [Page Template](page-template.md)
 
+## Linked List
+
+* [2. Add Two Numbers](linked-list/2.-add-two-numbers.md)
+* [21. Merge Two Sorted Lists](linked-list/21.-merge-two-sorted-lists.md)
+* [138. Copy List with Random Pointer](linked-list/138.-copy-list-with-random-pointer.md)
+* [141. Linked List Cycle](linked-list/141.-linked-list-cycle.md)
+* [143. Reorder List](linked-list/143.-reorder-list.md)
+* [206. Reverse Linked List](linked-list/206.-reverse-linked-list.md)
+
 ## Trie
 
 * [208. Implement Trie \(Prefix Tree\)](trie/208.-implement-trie-prefix-tree.md)
@@ -151,14 +160,6 @@
 ## Greedy
 
 * [253. Meeting Rooms II](greedy/253.-meeting-rooms-ii.md)
-
-## Linked List
-
-* [2. Add Two Numbers](linked-list/2.-add-two-numbers.md)
-* [21. Merge Two Sorted Lists](linked-list/21.-merge-two-sorted-lists.md)
-* [138. Copy List with Random Pointer](linked-list/138.-copy-list-with-random-pointer.md)
-* [141. Linked List Cycle](linked-list/141.-linked-list-cycle.md)
-* [206. Reverse Linked List](linked-list/206.-reverse-linked-list.md)
 
 ## Design
 
