@@ -18,7 +18,9 @@
 * [142. Linked List Cycle II](linked-list/142.-linked-list-cycle-ii.md)
 * [143. Reorder List](linked-list/143.-reorder-list.md)
 * [160. Intersection of Two Linked Lists](linked-list/160.-intersection-of-two-linked-lists.md)
+* [203. Remove Linked List Elements](linked-list/203.-remove-linked-list-elements.md)
 * [206. Reverse Linked List](linked-list/206.-reverse-linked-list.md)
+* [234. Palindrome Linked List](linked-list/234.-palindrome-linked-list.md)
 
 ## Trie
 
