@@ -15,7 +15,9 @@
 * [109. Convert Sorted List to Binary Search Tree](linked-list/109.-convert-sorted-list-to-binary-search-tree.md)
 * [138. Copy List with Random Pointer](linked-list/138.-copy-list-with-random-pointer.md)
 * [141. Linked List Cycle](linked-list/141.-linked-list-cycle.md)
+* [142. Linked List Cycle II](linked-list/142.-linked-list-cycle-ii.md)
 * [143. Reorder List](linked-list/143.-reorder-list.md)
+* [160. Intersection of Two Linked Lists](linked-list/160.-intersection-of-two-linked-lists.md)
 * [206. Reverse Linked List](linked-list/206.-reverse-linked-list.md)
 
 ## Trie
