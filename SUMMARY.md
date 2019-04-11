@@ -10,7 +10,9 @@
 * [8. String to Integer \(atoi\)](string/8.-string-to-integer-atoi.md)
 * [13. Roman to Integer](string/13.-roman-to-integer.md)
 * [28. Implement strStr\(\)](string/28.-implement-strstr.md)
+* [43. Multiply Strings](string/43.-multiply-strings.md)
 * [49. Group Anagrams](string/49.-group-anagrams.md)
+* [67. Add Binary](string/67.-add-binary.md)
 * [482. License Key Formatting](string/482.-license-key-formatting.md)
 * [647. Palindromic Substrings](string/647.-palindromic-substrings.md)
 * [681. Next Closest Time](string/681.-next-closest-time.md)
@@ -37,6 +39,7 @@
 * [328. Odd Even Linked List](linked-list/328.-odd-even-linked-list.md)
 * [445. Add Two Numbers II](linked-list/445.-add-two-numbers-ii.md)
 * [708. Insert into a Cyclic Sorted List](linked-list/708.-insert-into-a-cyclic-sorted-list.md)
+* [Untitled](linked-list/untitled.md)
 
 ## Trie
 
