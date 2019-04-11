@@ -3,6 +3,18 @@
 * [Welcome](README.md)
 * [Page Template](page-template.md)
 
+## String
+
+* [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
+* [5. Longest Palindromic Substring](string/5.-longest-palindromic-substring.md)
+* [8. String to Integer \(atoi\)](string/8.-string-to-integer-atoi.md)
+* [28. Implement strStr\(\)](string/28.-implement-strstr.md)
+* [49. Group Anagrams](string/49.-group-anagrams.md)
+* [482. License Key Formatting](string/482.-license-key-formatting.md)
+* [647. Palindromic Substrings](string/647.-palindromic-substrings.md)
+* [681. Next Closest Time](string/681.-next-closest-time.md)
+* [929. Unique Email Addresses](string/929.-unique-email-addresses.md)
+
 ## Linked List
 
 * [2. Add Two Numbers](linked-list/2.-add-two-numbers.md)
@@ -127,17 +139,6 @@
 * [162. Find Peak Element](binary-search/162.-find-peak-element.md)
 * [475. Heaters](binary-search/475.-heaters.md)
 * [658. Find K Closest Elements](binary-search/658.-find-k-closest-elements.md)
-
-## String
-
-* [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
-* [5. Longest Palindromic Substring](string/5.-longest-palindromic-substring.md)
-* [28. Implement strStr\(\)](string/28.-implement-strstr.md)
-* [647. Palindromic Substrings](string/647.-palindromic-substrings.md)
-* [929. Unique Email Addresses](string/929.-unique-email-addresses.md)
-* [49. Group Anagrams](string/49.-group-anagrams.md)
-* [482. License Key Formatting](string/482.-license-key-formatting.md)
-* [681. Next Closest Time](string/681.-next-closest-time.md)
 
 ## Array
 
