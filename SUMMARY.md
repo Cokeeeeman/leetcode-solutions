@@ -8,6 +8,7 @@
 * [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
 * [5. Longest Palindromic Substring](string/5.-longest-palindromic-substring.md)
 * [8. String to Integer \(atoi\)](string/8.-string-to-integer-atoi.md)
+* [13. Roman to Integer](string/13.-roman-to-integer.md)
 * [28. Implement strStr\(\)](string/28.-implement-strstr.md)
 * [49. Group Anagrams](string/49.-group-anagrams.md)
 * [482. License Key Formatting](string/482.-license-key-formatting.md)
