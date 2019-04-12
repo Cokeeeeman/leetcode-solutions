@@ -3,6 +3,11 @@
 * [Welcome](README.md)
 * [Page Template](page-template.md)
 
+## Greedy
+
+* [253. Meeting Rooms II](greedy/253.-meeting-rooms-ii.md)
+* [621. Task Scheduler](greedy/621.-task-scheduler.md)
+
 ## String
 
 * [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
@@ -175,10 +180,6 @@
 * [147. Insertion Sort List](sorting/147.-insertion-sort-list.md)
 * [280. Wiggle Sort](sorting/untitled-1.md)
 * [Untitled](sorting/untitled-2.md)
-
-## Greedy
-
-* [253. Meeting Rooms II](greedy/253.-meeting-rooms-ii.md)
 
 ## Design
 
