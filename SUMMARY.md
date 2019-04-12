@@ -153,6 +153,7 @@
 * [16. 3Sum Closest](array/16.-3sum-closest.md)
 * [18. 4Sum](array/18.-4sum.md)
 * [31. Next Permutation](array/untitled-1.md)
+* [41. First Missing Positive](array/41.-first-missing-positive.md)
 * [42. Trapping Rain Water](array/42.-trapping-rain-water.md)
 * [54. Spiral Matrix](array/54.-spiral-matrix.md)
 * [66. Plus One](array/66.-plus-one.md)
