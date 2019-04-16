@@ -5,6 +5,7 @@
 
 ## Greedy
 
+* [45. Jump Game II](greedy/45.-jump-game-ii.md)
 * [55. Jump Game](greedy/55.-jump-game.md)
 * [134. Gas Station](greedy/134.-gas-station.md)
 * [135. Candy](greedy/135.-candy.md)
