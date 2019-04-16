@@ -3,6 +3,31 @@
 * [Welcome](README.md)
 * [Page Template](page-template.md)
 
+## Array
+
+* [1. Two Sum](array/1.-two-sum.md)
+* [4. Median of Two Sorted Arrays](array/4.-median-of-two-sorted-arrays.md)
+* [11. Container With Most Water](array/11.-container-with-most-water.md)
+* [15. 3Sum](array/untitled.md)
+* [16. 3Sum Closest](array/16.-3sum-closest.md)
+* [18. 4Sum](array/18.-4sum.md)
+* [31. Next Permutation](array/untitled-1.md)
+* [41. First Missing Positive](array/41.-first-missing-positive.md)
+* [42. Trapping Rain Water](array/42.-trapping-rain-water.md)
+* [54. Spiral Matrix](array/54.-spiral-matrix.md)
+* [66. Plus One](array/66.-plus-one.md)
+* [84. Largest Rectangle in Histogram](array/84.-largest-rectangle-in-histogram.md)
+* [228. Summary Ranges](array/228.-summary-ranges.md)
+* [238. Product of Array Except Self](array/238.-product-of-array-except-self.md)
+* [289. Game of Life](array/289.-game-of-life.md)
+* [448. Find All Numbers Disappeared in an Array](array/448.-find-all-numbers-disappeared-in-an-array.md)
+* [560. Subarray Sum Equals K](array/560.-subarray-sum-equals-k.md)
+* [904. Fruit Into Baskets](array/904.-fruit-into-baskets.md)
+* [923. 3Sum With Multiplicity](array/923.-3sum-with-multiplicity.md)
+* [75. Sort Colors](array/75.-sort-colors.md)
+* [76. Minimum Window Substring](array/76.-minimum-window-substring.md)
+* [88. Merge Sorted Array](array/88.-merge-sorted-array.md)
+
 ## Greedy
 
 * [45. Jump Game II](greedy/45.-jump-game-ii.md)
@@ -154,30 +179,6 @@
 * [162. Find Peak Element](binary-search/162.-find-peak-element.md)
 * [475. Heaters](binary-search/475.-heaters.md)
 * [658. Find K Closest Elements](binary-search/658.-find-k-closest-elements.md)
-
-## Array
-
-* [1. Two Sum](array/1.-two-sum.md)
-* [4. Median of Two Sorted Arrays](array/4.-median-of-two-sorted-arrays.md)
-* [11. Container With Most Water](array/11.-container-with-most-water.md)
-* [15. 3Sum](array/untitled.md)
-* [16. 3Sum Closest](array/16.-3sum-closest.md)
-* [18. 4Sum](array/18.-4sum.md)
-* [31. Next Permutation](array/untitled-1.md)
-* [41. First Missing Positive](array/41.-first-missing-positive.md)
-* [42. Trapping Rain Water](array/42.-trapping-rain-water.md)
-* [54. Spiral Matrix](array/54.-spiral-matrix.md)
-* [66. Plus One](array/66.-plus-one.md)
-* [84. Largest Rectangle in Histogram](array/84.-largest-rectangle-in-histogram.md)
-* [228. Summary Ranges](array/228.-summary-ranges.md)
-* [238. Product of Array Except Self](array/238.-product-of-array-except-self.md)
-* [289. Game of Life](array/289.-game-of-life.md)
-* [448. Find All Numbers Disappeared in an Array](array/448.-find-all-numbers-disappeared-in-an-array.md)
-* [560. Subarray Sum Equals K](array/560.-subarray-sum-equals-k.md)
-* [904. Fruit Into Baskets](array/904.-fruit-into-baskets.md)
-* [923. 3Sum With Multiplicity](array/923.-3sum-with-multiplicity.md)
-* [76. Minimum Window Substring](array/76.-minimum-window-substring.md)
-* [88. Merge Sorted Array](array/88.-merge-sorted-array.md)
 
 ## Sorting
 
