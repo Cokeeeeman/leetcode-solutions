@@ -3,6 +3,22 @@
 * [Welcome](README.md)
 * [Page Template](page-template.md)
 
+## String
+
+* [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
+* [5. Longest Palindromic Substring](string/5.-longest-palindromic-substring.md)
+* [8. String to Integer \(atoi\)](string/8.-string-to-integer-atoi.md)
+* [13. Roman to Integer](string/13.-roman-to-integer.md)
+* [28. Implement strStr\(\)](string/28.-implement-strstr.md)
+* [43. Multiply Strings](string/43.-multiply-strings.md)
+* [49. Group Anagrams](string/49.-group-anagrams.md)
+* [67. Add Binary](string/67.-add-binary.md)
+* [68. Text Justification](string/68.-text-justification.md)
+* [482. License Key Formatting](string/482.-license-key-formatting.md)
+* [647. Palindromic Substrings](string/647.-palindromic-substrings.md)
+* [681. Next Closest Time](string/681.-next-closest-time.md)
+* [929. Unique Email Addresses](string/929.-unique-email-addresses.md)
+
 ## Array
 
 * [1. Two Sum](array/1.-two-sum.md)
@@ -38,21 +54,6 @@
 * [253. Meeting Rooms II](greedy/253.-meeting-rooms-ii.md)
 * [316. Remove Duplicate Letters](greedy/316.-remove-duplicate-letters.md)
 * [621. Task Scheduler](greedy/621.-task-scheduler.md)
-
-## String
-
-* [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
-* [5. Longest Palindromic Substring](string/5.-longest-palindromic-substring.md)
-* [8. String to Integer \(atoi\)](string/8.-string-to-integer-atoi.md)
-* [13. Roman to Integer](string/13.-roman-to-integer.md)
-* [28. Implement strStr\(\)](string/28.-implement-strstr.md)
-* [43. Multiply Strings](string/43.-multiply-strings.md)
-* [49. Group Anagrams](string/49.-group-anagrams.md)
-* [67. Add Binary](string/67.-add-binary.md)
-* [482. License Key Formatting](string/482.-license-key-formatting.md)
-* [647. Palindromic Substrings](string/647.-palindromic-substrings.md)
-* [681. Next Closest Time](string/681.-next-closest-time.md)
-* [929. Unique Email Addresses](string/929.-unique-email-addresses.md)
 
 ## Linked List
 
