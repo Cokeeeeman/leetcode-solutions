@@ -18,6 +18,7 @@
 * [647. Palindromic Substrings](string/647.-palindromic-substrings.md)
 * [681. Next Closest Time](string/681.-next-closest-time.md)
 * [929. Unique Email Addresses](string/929.-unique-email-addresses.md)
+* [336. Palindrome Pairs](string/336.-palindrome-pairs.md)
 
 ## Array
 
