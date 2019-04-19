@@ -199,6 +199,7 @@
 
 * [20. Valid Parentheses](stack/20.-valid-parentheses.md)
 * [85. Maximal Rectangle](stack/85.-maximal-rectangle.md)
+* [224. Basic Calculator](stack/224.-basic-calculator.md)
 * [394. Decode String](stack/394.-decode-string.md)
 
 ## Divide And Conquer
