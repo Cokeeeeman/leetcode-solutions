@@ -194,6 +194,7 @@
 
 * [146. LRU Cache](design/146.-lru-cache.md)
 * [297. Serialize and Deserialize Binary Tree](design/297.-serialize-and-deserialize-binary-tree.md)
+* [155. Min Stack](design/155.-min-stack.md)
 
 ## Stack
 
