@@ -213,7 +213,7 @@
 
 * [7. Reverse Integer](math/7.-reverse-integer.md)
 * [9. Palindrome Number](math/9.-palindrome-number.md)
-* [Untitled](math/untitled-1.md)
+* [268. Missing Number](math/untitled-1.md)
 
 ## SQL
 
