@@ -14,6 +14,7 @@
 * [49. Group Anagrams](string/49.-group-anagrams.md)
 * [67. Add Binary](string/67.-add-binary.md)
 * [68. Text Justification](string/68.-text-justification.md)
+* [187. Repeated DNA Sequences](string/187.-repeated-dna-sequences.md)
 * [242. Valid Anagram](string/242.-valid-anagram.md)
 * [336. Palindrome Pairs](string/336.-palindrome-pairs.md)
 * [443. String Compression](string/443.-string-compression.md)
