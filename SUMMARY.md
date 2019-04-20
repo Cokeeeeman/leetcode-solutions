@@ -16,6 +16,7 @@
 * [68. Text Justification](string/68.-text-justification.md)
 * [242. Valid Anagram](string/242.-valid-anagram.md)
 * [336. Palindrome Pairs](string/336.-palindrome-pairs.md)
+* [443. String Compression](string/443.-string-compression.md)
 * [482. License Key Formatting](string/482.-license-key-formatting.md)
 * [647. Palindromic Substrings](string/647.-palindromic-substrings.md)
 * [681. Next Closest Time](string/681.-next-closest-time.md)
