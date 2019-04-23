@@ -227,6 +227,7 @@
 * [973. K Closest Points to Origin](heap/973.-k-closest-points-to-origin.md)
 * [215. Kth Largest Element in an Array](heap/215.-kth-largest-element-in-an-array.md)
 * [347. Top K Frequent Elements](heap/347.-top-k-frequent-elements.md)
+* [692. Top K Frequent Words](heap/692.-top-k-frequent-words.md)
 
 ## Hash
 
