@@ -3,6 +3,13 @@
 * [Welcome](README.md)
 * [Page Template](page-template.md)
 
+## Math
+
+* [7. Reverse Integer](math/7.-reverse-integer.md)
+* [9. Palindrome Number](math/9.-palindrome-number.md)
+* [204. Count Primes](math/204.-count-primes.md)
+* [268. Missing Number](math/untitled-1.md)
+
 ## String
 
 * [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
@@ -210,12 +217,6 @@
 
 * [273. Integer to English Words](divide-and-conquer/273.-integer-to-english-words.md)
 * [218. The Skyline Problem](divide-and-conquer/218.-the-skyline-problem.md)
-
-## Math
-
-* [7. Reverse Integer](math/7.-reverse-integer.md)
-* [9. Palindrome Number](math/9.-palindrome-number.md)
-* [268. Missing Number](math/untitled-1.md)
 
 ## SQL
 
