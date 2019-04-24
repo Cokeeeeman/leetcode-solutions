@@ -8,6 +8,7 @@
 * [7. Reverse Integer](math/7.-reverse-integer.md)
 * [9. Palindrome Number](math/9.-palindrome-number.md)
 * [204. Count Primes](math/204.-count-primes.md)
+* [231. Power of Two](math/231.-power-of-two.md)
 * [268. Missing Number](math/untitled-1.md)
 
 ## String
